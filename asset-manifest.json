@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-dentaku/static/css/main.1954c604.chunk.css",
+    "main.js": "/react-dentaku/static/js/main.64106b21.chunk.js",
+    "main.js.map": "/react-dentaku/static/js/main.64106b21.chunk.js.map",
+    "runtime-main.js": "/react-dentaku/static/js/runtime-main.ed7564fb.js",
+    "runtime-main.js.map": "/react-dentaku/static/js/runtime-main.ed7564fb.js.map",
+    "static/js/2.fde6d626.chunk.js": "/react-dentaku/static/js/2.fde6d626.chunk.js",
+    "static/js/2.fde6d626.chunk.js.map": "/react-dentaku/static/js/2.fde6d626.chunk.js.map",
+    "index.html": "/react-dentaku/index.html",
+    "precache-manifest.986f9da59dba0441fd7a198b2c0f00c7.js": "/react-dentaku/precache-manifest.986f9da59dba0441fd7a198b2c0f00c7.js",
+    "service-worker.js": "/react-dentaku/service-worker.js",
+    "static/css/main.1954c604.chunk.css.map": "/react-dentaku/static/css/main.1954c604.chunk.css.map",
+    "static/js/2.fde6d626.chunk.js.LICENSE.txt": "/react-dentaku/static/js/2.fde6d626.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed7564fb.js",
+    "static/js/2.fde6d626.chunk.js",
+    "static/css/main.1954c604.chunk.css",
+    "static/js/main.64106b21.chunk.js"
+  ]
+}
