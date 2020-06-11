@@ -2,6 +2,10 @@
 
 ウェブブラウザ上で動く任意精度の電卓アプリ(React版)です。
 
+## デモ
+
+https://snoguchi.github.io/react-dentaku/
+
 ## 使い方
 
 | 計算式                     | キー操作                              | 結果  |
