@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2556e2ac065a22b3b84ef249675400ed",
+    "revision": "07b21be3c103883f563ff3e0d33bbedf",
     "url": "/react-dentaku/index.html"
   },
   {
-    "revision": "c188deb6e0b641a719ae",
-    "url": "/react-dentaku/static/css/main.1954c604.chunk.css"
+    "revision": "f78a3fc7c8f88a3d22af",
+    "url": "/react-dentaku/static/css/main.4e67751f.chunk.css"
   },
   {
     "revision": "2fa7cf17ce1641078ed1",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-dentaku/static/js/2.fde6d626.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c188deb6e0b641a719ae",
-    "url": "/react-dentaku/static/js/main.64106b21.chunk.js"
+    "revision": "f78a3fc7c8f88a3d22af",
+    "url": "/react-dentaku/static/js/main.96d4b6b5.chunk.js"
   },
   {
     "revision": "3316e9e3cf3a645ab397",

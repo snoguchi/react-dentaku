@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-dentaku/precache-manifest.986f9da59dba0441fd7a198b2c0f00c7.js"
+  "/react-dentaku/precache-manifest.d9eb429c36df249eebcee88f1ecd7011.js"
 );
 
 self.addEventListener('message', (event) => {
