@@ -3,15 +3,3 @@
   grid-template-columns: 4em 4em 4em 4em;
 }
 
-.display {
-  grid-column: 1 / 5;
-  background-color: white;
-  border: 1px solid gray;
-  font-size: 200%;
-  text-align: right;
-  word-break: break-all;
-}
-
-button {
-  font-size: 150%;
-}
